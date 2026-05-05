@@ -11,6 +11,10 @@
 	<groupId>com.Ahmad</groupId>
 	<artifactId>quickstart</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<modules>
+		<module>demo</module>
+	</modules>
 	<name/>
 	<description/>
 	<url/>
